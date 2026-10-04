@@ -1,0 +1,49 @@
+export const songs = [
+  { id: 1, title: "Dudu", artist: "Tarkan", album: "Dudu", duration: "3:51", durationSec: 231, genre: "Pop", cover: "https://picsum.photos/seed/tarkan-dudu/300/300", gradient: "linear-gradient(135deg, #f59e0b, #ef4444)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" },
+  { id: 2, title: "Gülümse", artist: "Sezen Aksu", album: "Gülümse", duration: "4:19", durationSec: 259, genre: "Pop", cover: "https://picsum.photos/seed/sezen-gulumse/300/300", gradient: "linear-gradient(135deg, #ec4899, #8b5cf6)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
+  { id: 3, title: "Gülpembe", artist: "Barış Manço", album: "Sözüm Meclisten Dışarı", duration: "5:32", durationSec: 332, genre: "Rock", cover: "https://picsum.photos/seed/baris-gulpembe/300/300", gradient: "linear-gradient(135deg, #10b981, #0ea5e9)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" },
+  { id: 4, title: "Bir Derdim Var", artist: "mor ve ötesi", album: "Dünya Yalan Söylüyor", duration: "3:24", durationSec: 204, genre: "Rock", cover: "https://picsum.photos/seed/mor-birderdim/300/300", gradient: "linear-gradient(135deg, #6366f1, #1e1b4b)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" },
+  { id: 5, title: "Her Şeyi Yak", artist: "Duman", album: "Belki Alışman Lazım", duration: "3:58", durationSec: 238, genre: "Rock", cover: "https://picsum.photos/seed/duman-herseyi/300/300", gradient: "linear-gradient(135deg, #ef4444, #1f2937)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" },
+  { id: 6, title: "Arıyo", artist: "Manifest", album: "Manifestival", duration: "2:47", durationSec: 167, genre: "Pop", cover: "https://picsum.photos/seed/manifest-ariyo/300/300", gradient: "linear-gradient(135deg, #f472b6, #fb923c)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" },
+  { id: 7, title: "Şımarık", artist: "Tarkan", album: "Ölürüm Sana", duration: "3:55", durationSec: 235, genre: "Pop", cover: "https://picsum.photos/seed/tarkan-simarik/300/300", gradient: "linear-gradient(135deg, #facc15, #f97316)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" },
+  { id: 8, title: "Bir Kadın Çizeceksin", artist: "maNga", album: "maNga", duration: "3:59", durationSec: 239, genre: "Rock", cover: "https://picsum.photos/seed/manga-kadin/300/300", gradient: "linear-gradient(135deg, #374151, #06b6d4)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" },
+  { id: 9, title: "Sarmaşık", artist: "Mabel Matiz", album: "Gök Nerede", duration: "3:42", durationSec: 222, genre: "Pop", cover: "https://picsum.photos/seed/mabel-sarmasik/300/300", gradient: "linear-gradient(135deg, #14b8a6, #84cc16)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" },
+  { id: 10, title: "Aşkın Olayım", artist: "Simge", album: "Aşkın Olayım", duration: "3:28", durationSec: 208, genre: "Pop", cover: "https://picsum.photos/seed/simge-askin/300/300", gradient: "linear-gradient(135deg, #fb7185, #e11d48)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" },
+  { id: 11, title: "Felaket", artist: "Ezhel", album: "Müptezhel", duration: "3:08", durationSec: 188, genre: "Rap", cover: "https://picsum.photos/seed/ezhel-felaket/300/300", gradient: "linear-gradient(135deg, #a855f7, #3b0764)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" },
+  { id: 12, title: "Holokost", artist: "Ceza", album: "Yerli Plaka", duration: "4:02", durationSec: 242, genre: "Rap", cover: "https://picsum.photos/seed/ceza-holokost/300/300", gradient: "linear-gradient(135deg, #78716c, #171717)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" },
+  { id: 13, title: "Everyway That I Can", artist: "Sertab Erener", album: "No Boundaries", duration: "2:34", durationSec: 154, genre: "Pop", cover: "https://picsum.photos/seed/sertab-everyway/300/300", gradient: "linear-gradient(135deg, #38bdf8, #6366f1)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3" },
+  { id: 14, title: "Ara", artist: "Zeynep Bastık", album: "Ara - Single", duration: "2:51", durationSec: 171, genre: "Pop", cover: "https://picsum.photos/seed/zeynep-ara/300/300", gradient: "linear-gradient(135deg, #fde68a, #f472b6)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3" },
+  { id: 15, title: "Shape of You", artist: "Ed Sheeran", album: "÷ (Divide)", duration: "3:53", durationSec: 233, genre: "Pop", cover: "https://picsum.photos/seed/ed-shape/300/300", gradient: "linear-gradient(135deg, #0ea5e9, #22c55e)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3" },
+  { id: 16, title: "Blinding Lights", artist: "The Weeknd", album: "After Hours", duration: "3:20", durationSec: 200, genre: "Pop", cover: "https://picsum.photos/seed/weeknd-lights/300/300", gradient: "linear-gradient(135deg, #ef4444, #020617)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3" },
+  { id: 17, title: "Levitating", artist: "Dua Lipa", album: "Future Nostalgia", duration: "3:23", durationSec: 203, genre: "Elektronik", cover: "https://picsum.photos/seed/dua-levitating/300/300", gradient: "linear-gradient(135deg, #c084fc, #f0abfc)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" },
+  { id: 18, title: "Do I Wanna Know?", artist: "Arctic Monkeys", album: "AM", duration: "4:32", durationSec: 272, genre: "Rock", cover: "https://picsum.photos/seed/arctic-wanna/300/300", gradient: "linear-gradient(135deg, #e7e5e4, #44403c)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
+  { id: 19, title: "Bad Guy", artist: "Billie Eilish", album: "When We All Fall Asleep", duration: "3:14", durationSec: 194, genre: "Elektronik", cover: "https://picsum.photos/seed/billie-badguy/300/300", gradient: "linear-gradient(135deg, #a3e635, #0f172a)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" },
+  { id: 20, title: "Believer", artist: "Imagine Dragons", album: "Evolve", duration: "3:24", durationSec: 204, genre: "Rock", cover: "https://picsum.photos/seed/imagine-believer/300/300", gradient: "linear-gradient(135deg, #fb923c, #7c2d12)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" },
+  { id: 21, title: "Rolling in the Deep", artist: "Adele", album: "21", duration: "3:48", durationSec: 228, genre: "Caz", cover: "https://picsum.photos/seed/adele-rolling/300/300", gradient: "linear-gradient(135deg, #78350f, #fef3c7)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" },
+  { id: 22, title: "Lose Yourself", artist: "Eminem", album: "8 Mile Soundtrack", duration: "5:26", durationSec: 326, genre: "Rap", cover: "https://picsum.photos/seed/eminem-lose/300/300", gradient: "linear-gradient(135deg, #64748b, #0f172a)", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" }
+];
+export const playlists = [
+  { id: "gunun-listesi", name: "Günün Listesi", description: "Sabah kahvenden gece yolculuğuna, güne en çok yakışan şarkılar.", cover: "https://picsum.photos/seed/playlist-gun/300/300", gradient: "linear-gradient(135deg, #22c55e, #15803d)", songIds: [1,15,16,9,10,17,7,4] },
+  { id: "turkce-pop", name: "Türkçe Pop", description: "Tarkan'dan Sezen Aksu'ya Türkçe popun en iyileri.", cover: "https://picsum.photos/seed/playlist-turkpop/300/300", gradient: "linear-gradient(135deg, #ec4899, #f43f5e)", songIds: [1,2,6,7,9,10,13,14] },
+  { id: "rock-klasikleri", name: "Rock Klasikleri", description: "Barış Manço'dan Duman'a gitarı yüksek aç.", cover: "https://picsum.photos/seed/playlist-rock/300/300", gradient: "linear-gradient(135deg, #ef4444, #111827)", songIds: [3,4,5,8,18,20] },
+  { id: "chill-vibes", name: "Chill Vibes", description: "Sakin akşamlar için loş ışık listesi.", cover: "https://picsum.photos/seed/playlist-chill/300/300", gradient: "linear-gradient(135deg, #06b6d4, #6366f1)", songIds: [2,9,21,15,19,14] },
+  { id: "yeni-cikanlar", name: "Yeni Çıkanlar", description: "Bu hafta en çok dinlenen yeniler.", cover: "https://picsum.photos/seed/playlist-yeni/300/300", gradient: "linear-gradient(135deg, #f59e0b, #0ea5e9)", songIds: [6,14,17,19,10,11,16] }
+];
+export const artists = [
+  { id: "tarkan", name: "Tarkan", monthlyListeners: "3,2 Mn aylık dinleyici", cover: "https://picsum.photos/seed/artist-tarkan/300/300" },
+  { id: "sezen-aksu", name: "Sezen Aksu", monthlyListeners: "2,8 Mn aylık dinleyici", cover: "https://picsum.photos/seed/artist-sezen/300/300" },
+  { id: "mor-ve-otesi", name: "mor ve ötesi", monthlyListeners: "2,1 Mn aylık dinleyici", cover: "https://picsum.photos/seed/artist-mor/300/300" },
+  { id: "duman", name: "Duman", monthlyListeners: "2,4 Mn aylık dinleyici", cover: "https://picsum.photos/seed/artist-duman/300/300" },
+  { id: "mabel-matiz", name: "Mabel Matiz", monthlyListeners: "2,5 Mn aylık dinleyici", cover: "https://picsum.photos/seed/artist-mabel/300/300" },
+  { id: "ed-sheeran", name: "Ed Sheeran", monthlyListeners: "115,4 Mn aylık dinleyici", cover: "https://picsum.photos/seed/artist-ed/300/300" },
+  { id: "the-weeknd", name: "The Weeknd", monthlyListeners: "110,2 Mn aylık dinleyici", cover: "https://picsum.photos/seed/artist-weeknd/300/300" },
+  { id: "dua-lipa", name: "Dua Lipa", monthlyListeners: "82,7 Mn aylık dinleyici", cover: "https://picsum.photos/seed/artist-dua/300/300" }
+];
+export const genres = [
+  { id: "pop", name: "Pop", color: "#ec4899" },
+  { id: "rock", name: "Rock", color: "#ef4444" },
+  { id: "rap", name: "Rap", color: "#8b5cf6" },
+  { id: "caz", name: "Caz", color: "#f59e0b" },
+  { id: "elektronik", name: "Elektronik", color: "#06b6d4" },
+  { id: "chill", name: "Chill", color: "#10b981" }
+];
